@@ -1,0 +1,1 @@
+je volitelná klauzule. Pokud není definována, a žádná z podmínek nebude splněna vrátí se **NULL**

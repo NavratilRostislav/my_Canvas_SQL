@@ -1,0 +1,1 @@
+Vypočítá diskrétní percentil pro hodnoty ve sloupci.

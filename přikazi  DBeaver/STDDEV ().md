@@ -1,0 +1,1 @@
+Vypočítá standartní odchylku hodnot ve sloupci.

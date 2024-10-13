@@ -1,0 +1,1 @@
+Vypočítá rozptyl hodnot ve sloupci.

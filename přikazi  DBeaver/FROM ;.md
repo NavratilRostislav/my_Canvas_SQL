@@ -1,0 +1,1 @@
+odkud chceme tyto data brát.

@@ -1,0 +1,1 @@
+LIMIT (určuje hranice kolik se toho má vybrat)

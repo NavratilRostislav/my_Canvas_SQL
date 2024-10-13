@@ -1,0 +1,1 @@
+Se používá pro výběr řádků z hlavní dotazované tabulky, kde hodnota v určitém sloupci odpovídá výsledkům poddotazu.(vnořeného dotazu)

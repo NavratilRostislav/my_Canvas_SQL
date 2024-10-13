@@ -1,0 +1,1 @@
+vrátí minimální hodnotu ve sloupci.

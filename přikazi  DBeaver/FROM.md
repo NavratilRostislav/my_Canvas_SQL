@@ -1,0 +1,1 @@
+Z jaké databáze se mají vytahovat dotazy.

@@ -1,0 +1,1 @@
+**AS**(nazev) pojmenování vypočítaného sloupce ve výstupu dotazu. (nijak nemění strukturu tabulky)

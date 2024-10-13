@@ -1,0 +1,1 @@
+Spočítá součet hodnot ve sloupci.

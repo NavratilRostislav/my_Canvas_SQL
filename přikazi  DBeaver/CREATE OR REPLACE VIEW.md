@@ -1,0 +1,1 @@
+vytvoření nebo nahrazení pohledu. 

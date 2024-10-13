@@ -1,0 +1,1 @@
+Spočítá počet jedinečných hodnot ve sloupci.

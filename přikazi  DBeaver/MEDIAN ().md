@@ -1,0 +1,1 @@
+Vrátí medián hodnot ve sloupci (pouze v některých databázích, např. PostgreSQL.)

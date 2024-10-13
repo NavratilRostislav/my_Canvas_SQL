@@ -1,0 +1,1 @@
+smazání pohledu

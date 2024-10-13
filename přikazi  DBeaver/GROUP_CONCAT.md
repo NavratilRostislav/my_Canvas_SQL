@@ -1,0 +1,1 @@
+spojuje hodnoty ve sloupci do jednoho řetězce(často používané v MySQL).

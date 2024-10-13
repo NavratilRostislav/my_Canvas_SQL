@@ -1,0 +1,1 @@
+vypočítává průměrnou hodnotu číselných dat v daném sloupci. 

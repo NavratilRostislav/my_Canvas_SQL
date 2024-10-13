@@ -1,0 +1,1 @@
+Vypočítá kontinuální percentil pro hodnoty ve sloupci.

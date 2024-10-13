@@ -1,0 +1,1 @@
+Vrací maximální hodnotu v daném sloupci.

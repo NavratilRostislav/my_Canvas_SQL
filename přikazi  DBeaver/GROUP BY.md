@@ -1,0 +1,1 @@
+Seskupuje výsledky podle jedné nebo vice hodnot.

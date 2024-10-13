@@ -1,0 +1,1 @@
+vypíše vše z databáze
